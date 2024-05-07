@@ -1,0 +1,5 @@
+I am Jason Tan and I am graduating Fall 2024.
+
+I know a little bit about MERN stack and I want to solidify my understanding of this tech stack. I also want to learn to build fullstack web applications with confidence.
+
+I have an idea of making an AI Writing Assistant that provides students with feedback on their writing with ChatGPT API. For education purpose, it will not generate a whole new writing for them but only provide feedback on specific areas. The three main entities will be the users, submissions, and the feedback (they may subject to change). Because the free tier of mongodb have limited storage, I will only store the summary version  of the submission and feedback. I am also hoping to turn this in to a chrome extension like Grammarly if I have the time.
