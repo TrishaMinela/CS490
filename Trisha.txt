@@ -1,0 +1,5 @@
+My name is Trisha taking 490R this semester. 
+
+From this class I want to learn how web developers think when they are starting to create a website. I want to know how to code in an organized way. 
+
+For my final project I want to create a tourism based website, specifically tours. Implementing user authentication, the customer and the tour operator can login to either purchase a tour, or create a tour to be purchased, respectively. There will be a booking and reservation system, they can build their own user profiles, and leave reviews and ratings. 
